@@ -25,7 +25,7 @@ No installs required. We’ll use Tailwind via CDN and GitHub’s web editor.
 
 3. **Start a Live Preview (Live Server)**  
    - In the Codespace terminal (bottom panel), type:  
-     ```bash
+     ```bash.    
      npx live-server
      ```  
    - After a few seconds, a preview panel or link will open (something like `https://<username>-<repo>-<id>.app.github.dev`)  
